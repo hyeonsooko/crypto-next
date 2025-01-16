@@ -26,7 +26,7 @@ A comprehensive platform for exploring cryptocurrencies, NFTs, and exchanges in 
 ## Future Updates
 
 **Enhance Functionality**
-- Perosnal dashboard: Add a dashboard that displays live cryptocurrency prices and trends using APIs like CoinGecko or CoinMarketCap.
+- Personal dashboard: Add a dashboard that displays live cryptocurrency prices and trends using APIs like CoinGecko or CoinMarketCap.
 - Portfolio Tracker: Allow users to create and manage a portfolio of cryptocurrencies. Track profits and losses in real time.
 - Authentication: Implement secure user registration and login (e.g., using JWT for token-based authentication).
 - User Dashboard: Provide personalized dashboards with saved preferences.
